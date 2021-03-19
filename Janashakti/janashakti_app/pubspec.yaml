@@ -1,0 +1,68 @@
+name: jiclapp
+description: A new iNube Flutter application.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+version: 1.0.1+2
+
+environment:
+  sdk: ">=2.10.0 <3.0.0"
+  country_code_picker: ^1.3.7
+
+
+analyzer:
+  enable-experiment:
+    - spread-collections
+    - non-nullable
+    
+  flutter_localizations:
+     sdk: flutter
+       
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.12.0  
+  sqflite: any
+  path_provider: any
+  csv: ^4.0.3
+  # The following adds the Cupertino Icons font to your application.
+  cupertino_icons: ^0.1.2
+  country_code_picker: ^1.3.7
+  image_picker: ^0.6.1+10
+  datetime_picker_formfield: ^1.0.0
+  fluttertoast: ^4.0.1
+  shared_preferences: '<2.0.0'
+  signature: ^3.1.1
+  connectivity: ^0.4.2
+  documents_picker: ^1.0.0
+  pdf_viewer_plugin: ^1.0.0+2
+  device_info: ^1.0.0
+  http_parser: ^3.1.4
+  webview_flutter: ^1.0.7
+  
+    
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.7.2
+
+
+flutter_icons:
+    android: true
+    ios: true
+    image_path: "assets/images/icon.png"
+
+
+# The following section is specific to Flutter.
+flutter:
+  assets:
+    - assets/
+    - assets/csv/
+    - assets/images/
+  uses-material-design: true
+
+  

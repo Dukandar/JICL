@@ -1,0 +1,26 @@
+fieldID,fieldname,suspect,prospect,fna,quotation,proposal,payment,status,failedproposals,pendingrequirements
+1008,Type,1,1,1,1,0,0,0,0,0
+1001,First Name,1,1,1,1,1,0,1,1,1
+1003,Mobile,1,1,1,1,0,0,0,0,0
+1004,Home,1,1,1,1,1,0,1,0,1
+1005,Work,1,1,1,1,1,0,1,0,1
+1006,Email ID,1,1,1,1,1,0,1,0,1
+1444,Days Left,1,1,1,1,0,0,0,0,0
+1027,NIC,0,1,1,1,0,0,0,0,0
+1445,Quote No,0,0,0,1,1,0,1,1,1
+1446,Quotation Date,0,0,0,1,0,0,0,0,0
+1108,Identification No,0,0,0,0,0,1,0,0,0
+1001,Proposer Name,0,0,0,0,0,1,0,0,0
+1110,Plan Name,0,0,0,0,0,1,0,0,0
+1111,Policy Term,0,0,0,0,0,1,0,0,0
+1410,Issue Date,0,0,0,0,0,1,0,0,0
+1142,Premium,0,0,0,0,0,1,0,0,0
+1105,Button,0,0,0,1,0,0,0,0,0
+1109,Proposal No,0,0,0,0,0,0,1,1,1
+1313,Status,0,0,0,0,0,0,1,0,1
+1235,Policy No.,0,0,0,0,0,0,1,0,0
+1447,Transaction Date,0,0,0,0,0,0,0,1,0
+1448,Receipt Status,0,0,0,0,0,0,0,1,0
+1449,Proposal Status,0,0,0,0,0,0,0,1,0
+1122,Mobile,0,0,0,0,1,1,1,1,1
+1116,NIC,0,0,0,0,1,0,1,1,1

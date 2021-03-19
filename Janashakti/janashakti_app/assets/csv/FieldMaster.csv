@@ -1,0 +1,455 @@
+fieldID,fieldName,fieldType,validationMessage,placeholder,questionID
+1000,Enter suspect information to create:,customelabel,,,0
+1001,First Name,textbox,Please enter,First Name,0
+1002,Last Name,textbox,Please enter ,Last Name,0
+1003,Mobile,phone,Please enter valid,789678777,0
+1004,Home,phone,Please enter valid,112303300,0
+1005,Work,phone,Please enter valid,112303300,0
+1006,Email ID,emailID,Please enter ,Email ID,0
+1007,Suspect Information,customelabel,,,0
+1008,Type,textbox,Please enter ,Type,0
+1009,Salutation,dropdown,Please select ,Salutation,0
+1010,Date Of Birth,date,Please select ,Date Of Birth,0
+1011,Age (Next B’day),numeric,Please enter ,Age (Next B’day),0
+1012,Occupation,dropdown,Please select ,Occupation,0
+1013,Communication Address:,label,,,0
+1014,Address Line 1,textbox,Please enter ,Address Line 1,0
+1015,Address Line 2,textbox,Please enter ,Address Line 2,0
+1016,Province,dropdown,Please select ,Province,0
+1017,District,dropdown,Please select ,District,0
+1018,City/Town,dropdown,Please select ,City/Town,0
+1019,Zip/Pin Code,textbox,Please enter ,Zip/Pin Code,0
+1020,Prospect Information,customelabel,,,0
+1021,Personal Information,customelabel,,,0
+1022,Household Expenses,customelabel,,,0
+1023,Value Of Assets and Liabilities,customelabel,,,0
+1024,Family Income,customelabel,,,0
+1025,Analysis,customelabel,,,0
+1026,Additional Details,customelabel,,,0
+1027,NIC,textbox,Please enter ,NIC,0
+1028,Gender,dropdown,Please select ,Gender,0
+1029,Average Monthly Household Income,dropdown,Please select ,Average Monthly Household Income,0
+1030,Marital Status,dropdown,Please select ,Marital Status,0
+1031,Prospect,imagelable,,,0
+1032,Name,textbox,Please enter,Name,0
+1033,Marital Status,radiogroup,Please select ,Marital Status,0
+1034,Employer,textbox,Please enter ,Employer,0
+1035,Dependent,multicontrol,Please select ,Dependent,0
+1036,Food,mediaslider,Please select ,Food,0
+1037,House Rent/Electricity/Water/Telephone,mediaslider,Please select ,House Rent/Electricity/Water/Telephone,0
+1038,Clothes,mediaslider,Please select ,Clothes,0
+1039,Transport,mediaslider,Please select ,Transport,0
+1040,Family Health Care,mediaslider,Please select ,Family Health Care,0
+1041,Education Of Children,mediaslider,Please select ,Education Of Children,0
+1042,Special Events and Entertainments,mediaslider,Please select ,Special Events and Entertainments,0
+1043,Maid's and other Helpers Salary,mediaslider,Please select ,Maid's and other Helpers Salary,0
+1044,Other Monthly Expenditures,mediaslider,Please select ,Expenditures,0
+1045,Total Monthly Expenditures,numeric,Please enter ,Total Monthly Expenditures,0
+1046,Monthly Installments for Loans/Mortage/Leases,mediaslider,Please select,Monthly Installments for Loans/Mortage/Leases,0
+1047,Assets,imagelable,,,0
+1048,Land & House,numeric,Please enter,Land & House,0
+1049,Motor/Vehicle's,numeric,Please enter ,Motor/Vehicle's,0
+1050,Type,dropdown,Please select ,Type,0
+1051,Bank Deposit's,numeric,Please enter ,Bank Deposit's,0
+1052,Investments,numeric,Please enter ,Investments,0
+1053,Total,numeric,,Total,0
+1054,Liabilities,imagelable,,,0
+1055,Loans,numeric,Please enter ,Loans,0
+1056,Mortgage,numeric,Please enter ,Mortgage,0
+1057,Leases,numeric,Please enter,Leases,0
+1058,Others,numeric,Please enter ,Others,0
+1060,Are these liabilities covered by any insurance?,radiogroup,Please select ,Are these liabilities covered by any insurance?,0
+1061,Monthly Income,label,,,0
+1062,Prospect,numeric,Please enter ,Prospect,0
+1063,Spouse,numeric,Please enter ,Spouse,0
+1064,Household Total,numeric,Please enter ,Household Total,0
+1065,Monthly Expenditure,numeric,Please enter ,Monthly Expenditure,0
+1066,Rate of Interest,numeric,Please enter ,Rate of Interest,0
+1067,Capital required to protect monthly expenditure,numeric,Please enter,Capital required to protect monthly expenditure,0
+1068,Less:,label,,,0
+1069,1.Are you covered under any other insurance policy?,radiogroup,Please select,1.Are you covered under any other insurance policy?,0
+1070,No of janashakthi policies/proposals,numeric,Please enter ,No of janashakthi policies/proposals,0
+1071,No of other policies/proposals,numeric,Please enter ,No of other policies/proposals,0
+1072,2. Savings and investments for Uncertain Events,numeric,Please enter ,Savings and investments for Uncertain Events,0
+1073,Total Protection Available(1+2),numeric,,Total Protection Available(1+2),0
+1074,The gap identified which needs to be protected,numeric,,The gap identified which needs to be protected,0
+1075,Date of next meeting(if required),label,,,0
+1076,Date,date,Please select ,Date,0
+1077,Time,time,Please select,hhmmss,0
+1078,Purpose of next meeting:,dropdown,Please select ,Purpose of next meeting:,0
+1079,Upload Signature,imagePicker,Please select ,Upload Signature,0
+1080,Prospect Signature,signature,Please select ,Prospect Signature,0
+1081,Product(s) Selected,dropdown,Please select ,Product(s) Selected,0
+1082,Analysis1,mediacontroller,,,0
+1083,Comments,textarea,Please enter,Comments,0
+1084,Attach File,imagePicker,Please Attach File,Attach File,0
+1085,Prospect Dependents,dependentView,,,0
+1086,Add Prospect Dependent,dependent,,Add Prospect Dependent,0
+1087,Product Details,customelabel,,,0
+1088,Plan,textbox,Please enter,Plan,0
+1089,Plan Code,textbox,Please enter,Plan Code,0
+1090,Policy Term,dropdown,Please select,Policy Term,0
+1091,Premium Term,dropdown,Please enter,Premium Term,0
+1092,Preferred Language,dropdown,Please select,Preferred Language,0
+1093,Preferred Mode,dropdown,Please select,Preferred Mode,0
+1094,Contribution Amount,numeric,Please enter,Contribution Amount,0
+1095,Insurance cover to be included?,radiogroup,Please select,Insurance cover to be included?,0
+1096,Self to be covered?,radiogroup,Please select,Self to be covered?,0
+1097,Please select the Life(es) to be Assured.,dropdown,Please select,Please select the Life(es) to be Assured.,0
+1098,Spouse to be covered?,radiogroup,Please select,Spouse to be covered?,0
+1099,Children to be covered?,radiogroup,Please select,Children to be covered?,0
+1100,No of children,textbox,Please enter,No of children,0
+1101,Please select the cashless cover type:,radiogroup,Please select,Please select the cashless cover type:,0
+1102,Please select how sum assured will be defined:,radiogroup,Please select,Please select how sum assured will be defined:,0
+1103,Get Risk Info,button,,Get Risk Info,0
+1104,Spouse,imagelable,,Spouse,0
+1105,Save,button,,,0
+1106,Save & Create Quote,button,,,0
+1107,"All questions must be answered truthfully and completely as the answers to these questions will influence the assessment and acceptance of your application.False answers or failure to disclose all material facts will invalidate the policy in the event of a claim. Therefore, if you have any doubt as to whether certain facts are material, it is in your interest to disclose them. If any medical examination is required to consider this proposal the same should be done by a doctor who is legally qualified and duty licensed but not the spouse or a close relative of the life to be assured",mainLabel,,,0
+1108,Quotation No,textbox,Please enter,Quotation No,0
+1109,Proposal No,textbox,Please enter,Proposal No,0
+1110,Plan Name,textbox,Please enter,Plan Name,0
+1111,Policy Term,textbox,Please enter,Policy Term,0
+1112,Premium Payment Term,textbox,Please enter,Premium Payment Term,0
+1113,Middle Name,textbox,Please enter,Middle Name,0
+1114,Name With Initials,textbox,Please enter,Name With Initials,0
+1115,Old NIC No,textbox,Please enter ,Old NIC No,0
+1116,New NIC No,textbox,Please enter ,New NIC No,0
+1117,Company Name,textbox,Please enter,Company Name,0
+1118,Exact Nature Of Duties,textbox,Please enter,Exact Nature Of Duties,0
+1119,Monthly Income,textbox,Please enter ,Monthly Income,0
+1120,Nationality,dropdown,Please select,Nationality,0
+1121,Contact Details,label,,,0
+1122,Mobile No 1,phone,Please enter valid,Mobile No 1,0
+1123,Mobile No 2,phone,Please enter valid,Mobile No 2,0
+1124,Permanent Address,label,,,0
+1125,Is Permanent Address same as Communication Address ?,customCheckbox,Please ,Is Permanent Address same as Communication Address ?,0
+1126,Is Proposer the life to be Assured,radiogroup,,Is Proposer the life to be Assured,0
+1127,Proposal Form,customelabel,,,0
+1128,1. Proposer Details,customelabel,,,0
+1129,2. Life to be Assured,customelabel,,,0
+1130,3. Questionnaire,customelabel,,,0
+1131,4. Benefit Coverage Details,customelabel,,,0
+1132,5. Premium Details,customelabel,,,0
+1133,6. Nominee Details,customelabel,,,0
+1134,7. Declaration And Documents,customelabel,,,0
+1135,Relation with Proposer,textbox,,Relation with Proposer,0
+1136,Wedding Anniversary Date,date,,Wedding Anniversary Date,0
+1137,Same As Proposer ?,checkbox,,Same As Proposer ?,0
+1138,expandCollapse,expandCollapse,,,0
+1139,coverageDetails,coverageDetails,,,0
+1140,Payment Frequent,dropdown,,Payment Frequent,0
+1141,Contribution Premium,textbox,,Contribution Premium,0
+1142,Mode Premium,textbox,,Mode Premium,0
+1143,Nominee(s)Details: (Please indicate Date Of Birth if Nominee does not have NIC),mainLabel,,,0
+1144,Add Nominee Details,button,,,0
+1145,nomineeDetails,nomineeDetails,,,0
+1146,8. Medical Test Requirements,customelabel,,,0
+1147,labelView,labelView,,,0
+1148,Please select Doctor for Medical examination,dropdown,,Please select Doctor for Medical examination,0
+1149,Payment will be made by,radiogroup,,Payment will be made by,0
+1150,Please select Lab for Medical Tests,dropdown,,Please select Lab for Medical Tests,0
+1151,Reports should be sent to,radiogroup,,Reports should be sent to,0
+1152,Requisition Letter,customButton,,Requisition Letter,0
+1153,7.a Premium Paying Details,customelabel,,7.a Premium Paying Details,0
+1154,7.b Preferred Communication Method,customelabel,,7.b Preferred Communication Method,0
+1155,7.c Documents uploading And Declaration,customelabel,,7.c Documents uploading And Declaration,0
+1156,Premium Payment Method,dropdown,,Premium Payment Method,0
+1157,Premiums Paid by,dropdown,,Premiums Paid by,0
+1158,"If other, please specify Name and Relationship with Proposer",textarea,,"If other, please specify Name and Relationship with Proposer",0
+1159,Payment Receipt preferred By,dropdown,,Payment Receipt preferred By,0
+1160,Preferred language for Policy Document & Correspondence,dropdown,,Preferred language for Policy Document & Correspondence,0
+1161,Preferred Method of Communication,dropdown,,Preferred Method of Communication,0
+1162,Add,customDocument,,Add,0
+1163,Declaration,label,,Declaration,0
+1164,"I/We DECLARE with the best of my / our Knowledge as at the date that I/We have read and understood the questions and statements that I/We have made in this proposal page are true in every aspect and that I/We have not withheld any information requested there in and that such statements and this declaration and statement made to the medical examiner shall from the basis of the proposed contract and agree that if any untrue averment be contained thereined the said contract absolutely null and void.\nI/We will inform Janashakthi Insurance PLC of any change to any material fact accruing before acceptance of this proposal and I/We understand that failure to do so will in the proposed contract being null and void.\nI/We hereby authorize the company to seek medical information from any doctor or hospital with regard to my /our physical or mental health condition, or to seek information from any Insurance Company to which a proposal has been made for insurance on my life/our lives at any time during my /our life time or after my death /our deaths if required.And,also hereby authorize such company,Hospital and /or Personnel to provide such information on request.",customCheckbox,,,0
+1165,Proposer,label,,,0
+1166,Photo,imagePicker,Please select,Prospect Image,0
+1167,Prospect Signature,signature,Please select ,Prospect Signature,0
+1168,Dependent,segment,Please ,Dependent,0
+1169,Requisition Letter,label,,,0
+1170,Download,button,,,0
+1171,Email,button,,,0
+1172,Save Proposal,button,,,0
+1173,Interim Save,button,,,0
+1174,Proceed To Payment,button,,,0
+1175,3a.Life Style,,,,0
+1176,3b.Medical History,,,,0
+1177,3c.Family History,,,,0
+1178,3d.Additional Questionnaire,,,,0
+1179,3e.Previous and Current Life Insurance,,,,0
+1180,Height,customspinner,Please enter height,In's,0
+1181,Weight,customspinner,Please enter weight,Kg's,0
+1182,Has your weight been steady recently?,radiogroup,,Has your weight been steady recently?,0
+1183,Please provide details,textbox,,Please provide details,0
+1184,Do You Smoke?,radiogroup,,Do You Smoke?,0
+1185,Add,customDocument,,Add,0
+1186,Do You Consume Alcohol?,radiogroup,,Do You Consume Alcohol?,0
+1187,Add,customDocument,,Add,0
+1188,Type,dropdown,,Type,0
+1189,Number,textbox,,Number,0
+1190,Per,dropdown,,Per,0
+1191,How Long(Years)?,textbox,,How Long(Years)?,0
+1192,Type,dropdown,,Type,0
+1193,Quantity(ml):,textbox,,Quantity(ml):,0
+1194,Document Name,textbox,,Document Name,0
+1195,Document Type,dropdown,,Document Type,0
+1196,Browse File,imagePicker,,Browse File,0
+1197,"1.Are you in good health, free from any impairment / ailment?",radiogroup,,"1.Are you in good health, free from any impairment / ailment?",29
+1198,2.Have you visited a doctor in the last 6 months for any ailment other than a common cough / cold / fever?,radiogroup,,2.Have you visited a doctor in the last 6 months for any ailment other than a common cough / cold / fever?,30
+1199,Details,textbox,,Details,0
+1200,"3.Have you been advised to have an operation, medical check-up or an investigation at a hospital or elsewhere or an illness, accident or injury requiring an overnight stay in a hospital or remain absent from work / (School if child) for more than 7 consecutive days within the last 5 year period?",radiogroup,,"3.Have you been advised to have an operation, medical check-up or an investigation at a hospital or elsewhere or an illness, accident or injury requiring an overnight stay in a hospital or remain absent from work / (School if child) for more than 7 consecutive days within the last 5 year period?",32
+1201,"4.Are you receiving any medical treatment or taking any medicine or drugs or have knowledge of any impending medical or surgical tests or treatment for an ailment, deformity or impairment?",radiogroup,,"4.Are you receiving any medical treatment or taking any medicine or drugs or have knowledge of any impending medical or surgical tests or treatment for an ailment, deformity or impairment?",33
+1202,5.Have you been subject to any medical condition or illness which has already affected you / your spouse / your child / your children's health in the last 10 year period or may do so in the future?,radiogroup,,5.Have you been subject to any medical condition or illness which has already affected you / your spouse / your child / your children's health in the last 10 year period or may do so in the future?,31
+1203,Add Family Member History,customDocument,,Add Family Member History,0
+1204,Relationship,dropdown,,Relationship,0
+1205,Present Age,textbox,,Present Age,0
+1206,State of Health,dropdown,,State of Health,0
+1207,If Living,label,,If Living,0
+1208,If Deseased,label,,If Deseased,0
+1209,Age at death,textbox,,Age at death,0
+1210,Cause,dropdown,,Cause,0
+1211,1.Do you Fly or intend to Fly other than as a Fee Paying Passenger?,radiogroup,,1.Do you Fly or intend to Fly other than as a Fee Paying Passenger?,11
+1212,2.Are you engaged or intend to engage with any of the armed services?,radiogroup,,2.Are you engaged or intend to engage with any of the armed services?,12
+1213,3.Are you engaged or intend to engage in any Hazardous Occupation or Sporting Activities?,radiogroup,,3.Are you engaged or intend to engage in any Hazardous Occupation or Sporting Activities?,13
+1214,"4.Have you ever been arrested for or convicted of any criminal offense ? If yes, please give details below.",radiogroup,,"4.Have you ever been arrested for or convicted of any criminal offense ? If yes, please give details below.",15
+1215,5.Do you work / reside in a country other than Sri Lanka or do you intend to live or travel outside Sri Lanka in the next 12 months?,radiogroup,,5.Do you work / reside in a country other than Sri Lanka or do you intend to live or travel outside Sri Lanka in the next 12 months?,16
+1216,Select Country,dropdown,,Select Country,0
+1217,"6.Do you have or you ever had any kind of threat on your life ? If Yes , please give details below.",radiogroup,,"6.Do you have or you ever had any kind of threat on your life ? If Yes , please give details below.",37
+1218,"7.Have you ever been categorised as a Politically Exposed Person (PEP) by any bank or financial institution? Yes  No
+Details",radiogroup,,"7.Have you ever been categorised as a Politically Exposed Person (PEP) by any bank or financial institution? Yes  No
+Details",301
+1219,8.Are you a close relative of a prominent member of any local or foreign government/ international organisation?,radiogroup,,8.Are you a close relative of a prominent member of any local or foreign government/ international organisation?,302
+1220,9.Do you closely work with a prominent member of any local or foreign government/ international organisation?,radiogroup,,9.Do you closely work with a prominent member of any local or foreign government/ international organisation?,303
+1221,No of janashakthi policies/proposals,textbox,,No of janashakthi policies/proposals,0
+1222,1.Are you covered under any other insurance policy?,radiogroup,,1.Are you covered under any other insurance policy?,0
+1223,Company Name,textbox,,Company Name,0
+1224,Policy/Prop.No,textbox,,Policy/Prop.No,0
+1225,Total sum assured for death,numeric,,Total sum assured for death,0
+1226,Accidental Benifit Amount,numeric,,Accidental Benifit Amount,0
+1227,Critical Illness Benifit,numeric,,Critical Illness Benifit,0
+1228,Hospitalization daily benefit,numeric,,Hospitalization daily benefit,0
+1229,Hospitalization Reimbursement Benifit Amount,numeric,,Hospitalization Reimbursement Benifit Amount,0
+1230,Current Status,textbox,,Current Status,0
+1231,Comments,textbox,,Comments,0
+1252,Have you made any claim under a life insurance policy of Janashakthi insurence PLC or any other insurance company?,radiogroup,,Have you made any claim under a life insurance policy of Janashakthi insurence PLC or any other insurance company?,0
+1233,Company Name,textbox,,Company Name,0
+1234,Nature of Claim,textbox,,Nature of Claim,0
+1235,Policy No.,textbox,,Policy No.,0
+1236,Date Of Claim,date,,Date Of Claim,0
+1237,Add,customDocument,,Add,0
+1238,Add,customDocument,,Add,0
+1239,"If Yes, please select the ailment",customedropdown,,"If Yes, please select the ailment",0
+1240,selection,customselection,,selection,0
+1241,1 What was the date of the first attack,date,,1 What was the date of the first attack,0
+1242,"2 Where was the location of the pain e.g. central, in the right or left side of the chest, across the front of the chest, or elsewhere in the chest",textbox,,"2 Where was the location of the pain e.g. central, in the right or left side of the chest, across the front of the chest, or elsewhere in the chest",0
+1243,"3 What was the severity of the pain e.g. vague discomfort, dull ache, stabbing, sharp, vice-like, crushing, very severe.",textbox,,"3 What was the severity of the pain e.g. vague discomfort, dull ache, stabbing, sharp, vice-like, crushing, very severe.",0
+1244,"4 Did the pain radiate outside the chest e.g. to the shoulders, arms, jaw, abdomen.",radiogroup,,"4 Did the pain radiate outside the chest e.g. to the shoulders, arms, jaw, abdomen.",0
+1245,"5 What was the circumstances of onset e.g. sudden, gradual, at rest, only on effort, only with change ofposture",textbox,,"5 What was the circumstances of onset e.g. sudden, gradual, at rest, only on effort, only with change ofposture",0
+1246,6 How long did the pain last,textbox,,6 How long did the pain last,0
+1247,7 What investigations were carried out and what was the results,textbox,,7 What investigations were carried out and what was the results,0
+1248,8 What was the final diagnosis,textbox,,8 What was the final diagnosis,0
+1249,9 Please provide details of treatment.,textbox,,9 Please provide details of treatment.,0
+1250,10 Is treatment still continuing,radiogroup,,10 Is treatment still continuing,0
+1251,11 Has there been any recurrence of symptoms,radiogroup,,11 Has there been any recurrence of symptoms,0
+11522,12 Did the symptoms cause incapacity or time off work,radiogroup,,12 Did the symptoms cause incapacity or time off work,0
+1253,13 Any of the family members suffering from heart disease?,radiogroup,,13 Any of the family members suffering from heart disease?,0
+1254,I declare that the above answers are true to the best of my knowledge and that I have not withheld any information that may influence the assessment or acceptance of this proposal. I agree that this supplementary questionnaire will form part of my proposal to the company and that non-disclosure of any material fact known to me may invalidate the contract.,customCheckbox,,I declare that the above answers are true to the best of my knowledge and that I have not withheld any information that may influence the assessment or acceptance of this proposal. I agree that this supplementary questionnaire will form part of my proposal to the company and that non-disclosure of any material fact known to me may invalidate the contract.,0
+1255,"1 Which form of arthritis do you suffer from ? e.g. Rheumatoid, Osteoarthritis",dropdown,,"1 Which form of arthritis do you suffer from ? e.g. Rheumatoid, Osteoarthritis",0
+1256,2 When was this first diagnosed,date,,2 When was this first diagnosed,0
+1257,3 Which joints are affected,textbox,,3 Which joints are affected,0
+1258,4 What is the extent of your disability,textbox,,4 What is the extent of your disability,0
+1259,5 What are your current symptoms,textbox,,5 What are your current symptoms,0
+1260,6 Do you use a walking stick or other mobility aids,radiogroup,,6 Do you use a walking stick or other mobility aids,0
+1261,"7 Have you had, or are you waiting for, an operation",radiogroup,,"7 Have you had, or are you waiting for, an operation",0
+1262,"8 What drugs have you taken in the past? (e.g. Brufen, Indocid, Myocrisin, Naprosyn) with dates if possible",textbox,,"8 What drugs have you taken in the past? (e.g. Brufen, Indocid, Myocrisin, Naprosyn) with dates if possible",0
+1263,"9 Have you ever taken steroids? e.g. Betnesol, Ledercort, Prednesol",radiogroup,,"9 Have you ever taken steroids? e.g. Betnesol, Ledercort, Prednesol",0
+1264,10 What drugs are you taking now? (Please give name and dosage),textbox,,10 What drugs are you taking now? (Please give name and dosage),0
+1265,"11 How often are you being followed up, and by whom?",textbox,,"11 How often are you being followed up, and by whom?",0
+1266,12 How much time have you taken off work with this condition? Please give dates and duration,textbox,,12 How much time have you taken off work with this condition? Please give dates and duration,0
+1267,1 What was the exact diagnosis.,textbox,,1 What was the exact diagnosis.,0
+1268,2 When was this diagnosis first made,date,,2 When was this diagnosis first made,0
+1269,3 How often have you suffered since the first diagnosis,textbox,,3 How often have you suffered since the first diagnosis,0
+1270,4 When was the last time,date,,4 When was the last time,0
+1271,"5 In what circumstances is an attack brought on (e.g. exercise, stress or allergy)",textbox,,"5 In what circumstances is an attack brought on (e.g. exercise, stress or allergy)",0
+1272,"6 What is the name of the drugs you have received in the past (e.g. Becotide, Bricanyl, Franol, intal, Ventolin)",textbox,,"6 What is the name of the drugs you have received in the past (e.g. Becotide, Bricanyl, Franol, intal, Ventolin)",0
+1273,"7 What treatment are you taking now (tablets and/or inhalers) Please give name, dosage and frequency of use",textbox,,"7 What treatment are you taking now (tablets and/or inhalers) Please give name, dosage and frequency of use",0
+1274,"8 Have you ever taken steroids e.g. Prednisolone, Pulmicort",radiogroup,,"8 Have you ever taken steroids e.g. Prednisolone, Pulmicort",0
+1275,9 Are you being followed up now,radiogroup,,9 Are you being followed up now,0
+1276,10 Have you ever been admitted to hospital as an emergency,radiogroup,,10 Have you ever been admitted to hospital as an emergency,0
+1277,11 Have you been off work with this complaint,radiogroup,,11 Have you been off work with this complaint,0
+1278,When & What Dose,textbox,,When & What Dose,0
+1279,By whom,textbox,,By whom,0
+1280,Which Hospital & When,textbox,,Which Hospital & When,0
+1281,Please say when and for,textbox,,Please say when and for,0
+1282,2 Do your symptoms wake you up at night,radiogroup,,2 Do your symptoms wake you up at night,0
+1283,How often per month,textbox,,How often per month,0
+1284,13 If you use a peak flow meter and record the results please quote your lowest and highest readings in the last three months,textbox,,13 If you use a peak flow meter and record the results please quote your lowest and highest readings in the last three months,0
+1285,14 How many cigarettes do you smoke a day,textbox,,14 How many cigarettes do you smoke a day,0
+1286,Please provide details,textbox,,Please provide details,0
+1287,Family Member Relationship,dropdown,,Family Member Relationship,0
+1288,1 Do you know the precise diagnosis? (Please give details),radiogroup,,1 Do you know the precise diagnosis? (Please give details),0
+1289,2 Has it kept you off work or affected your lifestyle,radiogroup,,2 Has it kept you off work or affected your lifestyle,0
+1290,Please give relevant dates and duration's'or details,textbox,,Please give relevant dates and duration's'or details,0
+1291,"3 Please give details of treatment (e.g. names of tablets, physiotherapy etc.) in the past",textbox,,"3 Please give details of treatment (e.g. names of tablets, physiotherapy etc.) in the past",0
+1292,"4 Please give details of treatment (e.g. names of tablets, physiotherapy etc.) Currently",textbox,,"4 Please give details of treatment (e.g. names of tablets, physiotherapy etc.) Currently",0
+1293,5 Is any operation being considered,radiogroup,,5 Is any operation being considered,0
+1294,6 Do you still have symptoms,radiogroup,,6 Do you still have symptoms,0
+1295,When was the last time ?,textbox,,When was the last time ?,0
+1296,7 Are you gainfully employed ?,radiogroup,,7 Are you gainfully employed ?,0
+1297,8 Whether you can run as usual ?,radiogroup,,8 Whether you can run as usual ?,0
+1298,1 When was the diagnosis of diabetes made?,date,,1 When was the diagnosis of diabetes made?,0
+1299,"2 What treatment has been prescribed? (If insulin, please state dosage per day).",textbox,,"2 What treatment has been prescribed? (If insulin, please state dosage per day).",0
+1300,3 Has your treatment varied within the last 3 years?,radiogroup,,3 Has your treatment varied within the last 3 years?,0
+1301,4 Please give sample readings for blood sugars over the last 3 months.,textbox,,4 Please give sample readings for blood sugars over the last 3 months.,0
+1302,5 Please give sample readings for urine tests over the last 3 months.,textbox,,5 Please give sample readings for urine tests over the last 3 months.,0
+1303,"6 Have you ever had a diabetic or insulin coma? (If so, please give details).",radiogroup,,"6 Have you ever had a diabetic or insulin coma? (If so, please give details).",0
+1304,"7 Do you suffer from any other medical impairment? e.g. eye disorders, heart or circulatory disease, numbness or tingling of the feet or legs, kidney disease (for example albumin or protein in the urine).",radiogroup,,"7 Do you suffer from any other medical impairment? e.g. eye disorders, heart or circulatory disease, numbness or tingling of the feet or legs, kidney disease (for example albumin or protein in the urine).",0
+1305,Please Specify,textbox,,Please Specify,0
+1306,8 Please give name and address of the doctor or clinic supervising your treatment.,radiogroup,,8 Please give name and address of the doctor or clinic supervising your treatment.,0
+1307,9 Has it kept you off work or affected your lifestyle,radiogroup,,9 Has it kept you off work or affected your lifestyle,0
+1308,Please give relevant dates and durations or details,textbox,,Please give relevant dates and durations or details,0
+1309,"10 Please provide details of any other relevant factors, symptoms or complications not already mentioned, if any",textbox,,"10 Please provide details of any other relevant factors, symptoms or complications not already mentioned, if any",0
+1310,Please provide details including dates,textbox,,Please provide details including dates,0
+1311,Add,customDocument,,Add,0
+1312,Age at Onset,numeric,,Age at Onset,0
+1313,Status,textbox,,Status,0
+1314,Age at Death,numeric,,Age at Death,0
+1315,1 On what date was this first diagnosed,date,,1 On what date was this first diagnosed,0
+1316,2 Has it been described as any particular type (Please give details),textbox,,2 Has it been described as any particular type (Please give details),0
+1317,3 Did you have any investigations,radiogroup,,3 Did you have any investigations,0
+1318,Please give details including results,textbox,,Please give details including results,0
+1319,4 Does anything cause your attacks,radiogroup,,4 Does anything cause your attacks,0
+1320,5 How often and severe are the attacks,textbox,,5 How often and severe are the attacks,0
+1321,6 How long does each last,textbox,,6 How long does each last,0
+1322,7 When was the last one,textbox,,7 When was the last one,0
+1323,"8 What tablets have you taken in the past (If different types please list them) e.g. Epilim, Epanutin",textbox,,"8 What tablets have you taken in the past (If different types please list them) e.g. Epilim, Epanutin",0
+1324,9 Are you being followed up or on any treatment now,radiogroup,,9 Are you being followed up or on any treatment now,0
+1325,10 Has it kept you off work or affected your lifestyle,radiogroup,,10 Has it kept you off work or affected your lifestyle,0
+1326,Please give relevant dates and durations or details,textbox,,Please give relevant dates and durations or details,0
+1327,11 Are you permitted to hold a driving licence,radiogroup,,11 Are you permitted to hold a driving licence,0
+1328,"1 Please state the precise diagnosis (e.g. Cystitis, Kidney Stones, Prostatitis, Pyelonephritis)",textbox,,"1 Please state the precise diagnosis (e.g. Cystitis, Kidney Stones, Prostatitis, Pyelonephritis)",0
+1329,2 When was this made,date,,2 When was this made,0
+1330,3 Have any of your family members suffered from Kidney disease,radiogroup,,3 Have any of your family members suffered from Kidney disease,0
+1331,"4 Have you had any investigations? (e.g. IVP, Cystoscopy)",radiogroup,,"4 Have you had any investigations? (e.g. IVP, Cystoscopy)",0
+1332,Please give details including dates & results,textbox,,Please give details including dates & results,0
+1333,"5 Please give details of treatment (tablets, Operations etc.) Currently",textbox,,"5 Please give details of treatment (tablets, Operations etc.) Currently",0
+1334,"6 Please give details of treatment (tablets, Operations etc.) in the past",textbox,,"6 Please give details of treatment (tablets, Operations etc.) in the past",0
+1335,7 Is any operation envisaged now ?,radiogroup,,7 Is any operation envisaged now ?,0
+1336,8 If your symptoms have occurred more than once please give dates and durations,textbox,,8 If your symptoms have occurred more than once please give dates and durations,0
+1337,9 Are you having follow up checks,textbox,,9 Are you having follow up checks,0
+1338,10 Have the checks been completed ?,radiogroup,,10 Have the checks been completed ?,0
+1339,Please select last date,date,,Please select last date,0
+1340,11 Has it kept you off work or affected your lifestyle,radiogroup,,11 Has it kept you off work or affected your lifestyle,0
+1341,Add,customDocument,,Add,0
+1342,1 Type Of gynaelogical compliant,radiogroup,,1 Type Of gynaelogical compliant,0
+1343,2 When was the Abnormal SMEAR reported?,date,,2 When was the Abnormal SMEAR reported?,0
+1344,3 What treatment was given?,textbox,,3 What treatment was given?,0
+1345,4 Do you know the diagnosis?,radiogroup,,4 Do you know the diagnosis?,0
+1346,5 what was the reason for hystrectomy?,textbox,,5 what was the reason for hystrectomy?,0
+1347,6 Was there any other treatment connected with this?,radiogroup,,6 Was there any other treatment connected with this?,0
+1348,7 Are you being followed up now?,radiogroup,,7 Are you being followed up now?,0
+1349,8 Have you been discharged?,radiogroup,,8 Have you been discharged?,0
+1350,How often?,textbox,,How often?,0
+1351,When was it?,date,,When was it?,0
+1352,1 On what date was this first diagnosed?,date,,1 On what date was this first diagnosed?,0
+1353,2 How was it discovered or why was your blood pressure measured at that particular time?,textbox,,2 How was it discovered or why was your blood pressure measured at that particular time?,0
+1354,"3 If you know, what was the reading then?",textbox,,"3 If you know, what was the reading then?",0
+1355,"4 Did you have any investigations? (e.g. X-ray, ECG, Blood lipids)",radiogroup,,"4 Did you have any investigations? (e.g. X-ray, ECG, Blood lipids)",0
+1356,"If YES, please give full detail including results",textbox,,"If YES, please give full detail including results",0
+1357,5 Have any of your family members suffered from high blood pressure. Please give ages at onset/death,textbox,,5 Have any of your family members suffered from high blood pressure. Please give ages at onset/death,0
+1358,"6 What tablets have you taken in the past? (If different types please list them) e.g. Aldactide, Moduretic, Navidrex, Aldomet, Betaloc,Inderal, Tenoretic, Tenormin, Trasicor",textbox,,"6 What tablets have you taken in the past? (If different types please list them) e.g. Aldactide, Moduretic, Navidrex, Aldomet, Betaloc,Inderal, Tenoretic, Tenormin, Trasicor",0
+1359,7 Are you on treatment now?,radiogroup,,7 Are you on treatment now?,0
+1360,"If YES, please give name of tablet, dosage and how often you take the tablets",textbox,,"If YES, please give name of tablet, dosage and how often you take the tablets",0
+1361,8 What are the arrangements for following you up?,textbox,,8 What are the arrangements for following you up?,0
+1362,9 When was your last blood pressure reading?,textbox,,9 When was your last blood pressure reading?,0
+1363,10 Do you know what it is? Please specify,textbox,,10 Do you know what it is? Please specify,0
+1364,11 Have tests on your urine always been normal?,radiogroup,,11 Have tests on your urine always been normal?,0
+1365,"If No, please give details",textbox,,"If No, please give details",0
+1366,12 How many cigarettes do you smoke a day?,textbox,,12 How many cigarettes do you smoke a day?,0
+1367,1 What are your symptoms?,textbox,,1 What are your symptoms?,0
+1368,2 How frequent and severe are they?,textbox,,2 How frequent and severe are they?,0
+1369,3 Please give dates,textbox,,3 Please give dates,0
+1370,4 Have you been given a precise diagnosis?,radiogroup,,4 Have you been given a precise diagnosis?,0
+1371,"5 What tablets have you taken? E.g. Aludrox, Gaviscon, Tagamet, Zantac",textbox,,"5 What tablets have you taken? E.g. Aludrox, Gaviscon, Tagamet, Zantac",0
+1372,6 Have you had a barium meal or any other investigation?,radiogroup,,6 Have you had a barium meal or any other investigation?,0
+1373,7 Have you had any operation ?,radiogroup,,7 Have you had any operation ?,0
+1374,Date of Operation,date,,Date of Operation,0
+1375,8 Have you had any problems since?,radiogroup,,8 Have you had any problems since?,0
+1376,9 Are you being followed up or receiving any treatment now?,radiogroup,,9 Are you being followed up or receiving any treatment now?,0
+1377,10 If you have been discharged from follow up?,radiogroup,,10 If you have been discharged from follow up?,0
+1378,When was this,textbox,,When was this,0
+1379,11 Have you been off work with this complaint?,radiogroup,,11 Have you been off work with this complaint?,0
+1380,Please share details (Please say when and for how long),textbox,,Please share details (Please say when and for how long),0
+1381,Need Analysis,customelabel,,,0
+1382,Other Policies,customDocument,,Other Policies,0
+1383,Total Death Benifit Amount,numeric,Please enter ,Total Death Benifit Amount,0
+1384,Total Accidental Benifit,numeric,Please enter ,Total Accidental Benifit,0
+1385,Total Critical Illness Benifit,numeric,Please enter ,Total Critical Illness Benifit,0
+1386,Total Hospitalization/day,numeric,Please enter ,Total Hospitalization/day,0
+1387,Total Hospitalization Reimbursement Benifit Amount,numeric,Please enter ,Total Hospitalization Reimbursement Benifit Amount,0
+1388,Company Name,textbox,Please enter ,Company Name,0
+1389,Policy/Prop.No,textbox,Please enter ,Policy/Prop.No,0
+1390,Death Benifit Amount,numeric,Please enter ,Death Benifit Amount,0
+1391,Accidental Benifit,numeric,Please enter ,Accidental Benifit,0
+1392,Critical Illness Benifit,numeric,Please enter ,Critical Illness Benifit,0
+1393,Hospitalization/day,numeric,Please enter ,Hospitalization/day,0
+1394,Hospitalization Reimbursement Benifit Amount,numeric,Please enter ,Hospitalization Reimbursement Benifit Amount,0
+1395,Current Status,dropdown,Please select,Current Status,0
+1396,Comments,textbox,Please enter ,Comments,0
+1397,Please provide details in case of poor health or under medication,label,Please ,Please provide details in case of poor health or under medication,0
+1398,Relationship,textbox,Please enter,Relationship,0
+1399,Details,textbox,Please enter,Details,0
+1400,Proposer Signature,imagePicker,Please select,Proposer Signature,0
+1401,Digital Signature,signature,Please enter,Digital Signature,0
+1402,Spouse,label,Please ,Spouse,0
+1403,Signature,imagePicker,Please select,Signature,0
+1404,Proposal Details,label,Please ,Proposal Details,0
+1405,Payment Options,label,Please ,Proposal Details,0
+1406,Identification No,customheaderlabel,Please ,Identification No,0
+1407,Proposer Name,customheaderlabel,Please ,Proposer Name,0
+1408,Plan Name,customheaderlabel,Please ,Plan Name,0
+1409,Policy Term,customheaderlabel,Please ,Policy Term,0
+1410,Issue Date,customheaderlabel,Please ,Issue Date,0
+1411,Premium,customheaderlabel,Please ,Premium,0
+1412,Payable Amount:,customheaderlabel,Please ,Payable Amount:,0
+1413,Proced To Pay,button,Please ,Proced To Pay,0
+1414,Select Option,radiogroup,Please select,Select Option,0
+1415,Cheque Details,label,Please ,Cheque Details,0
+1416,Name,textbox,Please enter,Name,0
+1417,Payer Relationship,dropdown,Please select,Payer Relationship,0
+1418,Cheque Relationship,dropdown,Please select,Cheque Relationship,0
+1419,Instrument No,textbox,Please enter,Instrument No,0
+1420,Instrument Date,date,Please select,Instrument Date,0
+1421,Amount,numeric,Please enter,Amount,0
+1422,Bank Name,dropdown,Please select,Bank Name,0
+1423,Branch Name,dropdown,Please select,Branch Name,0
+1424,Total Amount Paid By,customheaderlabel,Please ,Total Amount Paid By,0
+1425,Cash,numeric,Please enter,Cash,0
+1426,Cheque,numeric,Please enter,Cheque,0
+1427,DD,numeric,Please enter ,DD,0
+1428,Internal Utilization,numeric,Please enter,Internal Utilization,0
+1429,Advisor Deposit,numeric,Pleasse enter,Advisor Deposit,0
+1430,Total Payable Amount,numeric,Please enter,Total Payable Amount,0
+1431,Total Paid Amount,numeric,Please enter,Total Paid Amount,0
+1432,Client Name,customheaderlabel,Please ,Client Name,0
+1433,Proposal Number/Request Number,customheaderlabel,Please ,Proposal Number/Request Number,0
+1434,Payment Method,customheaderlabel,Please ,Payment Method,0
+1435,Premium Amount,customheaderlabel,Please ,Premium Amount,0
+1436,Paying Amount,customheaderlabel,Please ,Paying Amount,0
+1437,Submit,button,Please ,Submit,0
+1438,Enter OTP,numeric,Please enter,Enter OTP,0
+1439,Procced,button,Please ,Procced,0
+1440,Add,customDocument,Please ,Add,0
+1441,Add,customDocument,Please ,Add,0
+1442,Cash,label,Please ,Cash,0
+1443,Cash Amount,numeric,Please enter,Cash Amount,0
+1444,Days Left,label,Please ,Days Left,0
+1445,Quote No,label,Please ,Quote No,0
+1446,Quotation Date,label,Please ,Quotation Date,0
+1447,Transaction Date,label,Please ,Transaction Date,0
+1448,Receipt Status,label,Please ,Receipt Status,0
+1449,Proposal Status,label,Please ,Proposal Status,0
+1450,Please select the medical benefit:,radiogroup,Please select,Please select the medical benefit:,0
+1451,Please select the benefit receiving period:,radiogroup,Please select,Please select the benefit receiving period:,0
+1452,Please indicate whether Reimbursement cover applied for:,radiogroup,Please select,Please indicate whether Reimbursement cover applied for:,0

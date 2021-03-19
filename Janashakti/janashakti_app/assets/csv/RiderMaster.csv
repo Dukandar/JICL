@@ -1,0 +1,56 @@
+benefitCode,main,spouse,child,benefitName,Description,imageName,benefitID,riderCode,planCode,sortOrder,isEditable
+BSA,TRUE,TRUE,FALSE,Basic Cover,Basic Cover,BSA,0,0,1002,1,TRUE
+PAC,TRUE,TRUE,FALSE,Additional Accident Cover / TPD / PPD,"This shall provide Accidental Death Cover, Total Permanent, Disability Benefit (Due to Accident or Sickness) and Partial Permanent Disability benefit (Due to Accident). ",PAC,8,LACCID_R1,1002,2,TRUE
+FIB,TRUE,FALSE,FALSE,Family Income Benefit Per Month,This benefit shall pay the monthly Income of the family unit in case of Death or Total Permanent Disability of the Life assured,FIB,4,FIB,1002,3,TRUE
+FE,TRUE,TRUE,TRUE,Funeral Expense,This will cover Funeral Expenses.,FE,9,FUNEX,1002,4,TRUE
+HCB,TRUE,TRUE,TRUE,Hospital Cash Plan Per Day,This shall provide you a cash benefit in the event of Hospitalization based on Number of days hospitalized,HCB,5,LHOSPT_R1,1002,5,TRUE
+HRCL,TRUE,TRUE,TRUE,Hospital Reimbursement-Cashless,This shall provide you a cashless benefit in the event of Hospitalization based on Number of days hospitalized,HRCL,13,HRCL,1002,6,TRUE
+CIC,TRUE,TRUE,TRUE,Critical Illness,This shall protect you on 25 or 39 Critical Ailments.,CIC,3,LCRITL_R1,1002,7,TRUE
+BSA,TRUE,TRUE,FALSE,Basic Cover,Basic Cover,BSA,0,0,1003,1,TRUE
+PAC,TRUE,TRUE,FALSE,Additional Accident Cover / TPD / PPD,"This shall provide Accidental Death Cover, Total Permanent, Disability Benefit (Due to Accident or Sickness) and Partial Permanent Disability benefit (Due to Accident).",PAC,8,LACCID_R1,1003,2,TRUE
+ALC,TRUE,TRUE,FALSE,Additional Life Cover,This shall enhance the protection while charging a low Premium.,PAC,1,LADDI_R1,1003,3,TRUE
+FIB,TRUE,FALSE,FALSE,Family Income Benefit Per Month,This benefit shall pay the monthly Income of the family unit in case of Death or Total Permanent Disability of the Life assured,FIB,4,FIB,1003,4,TRUE
+FE,TRUE,TRUE,TRUE,Funeral Expense,This will cover Funeral Expenses.,FE,9,FUNEX,1003,5,TRUE
+HCB,TRUE,TRUE,TRUE,Hospital Cash Plan Per Day,This shall provide you a cash benefit in the event of Hospitalization based on Number of days hospitalized,HCB,5,LHOSPT_R1,1003,6,TRUE
+HRCL,TRUE,TRUE,TRUE,Hospital Reimbursement-Cashless,This shall provide you a cashless benefit in the event of Hospitalization based on Number of days hospitalized,HRCL,13,HRCL,1003,7,TRUE
+CIC,TRUE,TRUE,TRUE,Critical Illness,This shall protect you on 25 or 39 Critical Ailments.,CIC,3,LCRITL_R1,1003,8,TRUE
+BSA,TRUE,TRUE,FALSE,Basic Cover,Basic Cover,BSA,0,0,1004,1,TRUE
+PAC,TRUE,TRUE,FALSE,Additional Accident Cover / TPD / PPD,"This shall provide Accidental Death Cover, Total Permanent, Disability Benefit (Due to Accident or Sickness) and Partial Permanent Disability benefit (Due to Accident).",PAC,8,LACCID_R1,1004,2,TRUE
+ALC,TRUE,TRUE,FALSE,Additional Life Cover,This shall enhance the protection while charging a low Premium.,PAC,1,LADDI_R1,1004,3,TRUE
+FIB,TRUE,FALSE,FALSE,Family Income Benefit Per Month,This benefit shall pay the monthly Income of the family unit in case of Death or Total Permanent Disability of the Life assured,FIB,4,FIB,1004,4,TRUE
+FE,TRUE,TRUE,TRUE,Funeral Expense,This will cover Funeral Expenses.,FE,9,FUNEX,1004,5,TRUE
+HCB,TRUE,TRUE,TRUE,Hospital Cash Plan Per Day,This shall provide you a cash benefit in the event of Hospitalization based on Number of days hospitalized,HCB,5,LHOSPT_R1,1004,6,TRUE
+HRCL,TRUE,TRUE,TRUE,Hospital Reimbursement-Cashless,This shall provide you a cashless benefit in the event of Hospitalization based on Number of days hospitalized,HRCL,13,HRCL,1004,7,TRUE
+CIC,TRUE,TRUE,TRUE,Critical Illness,This shall protect you on 25 or 39 Critical Ailments.,CIC,3,LCRITL_R1,1004,8,TRUE
+BSA,TRUE,TRUE,FALSE,Basic Cover,Basic Cover,BSA,0,0,1005,1,TRUE
+ALC,TRUE,TRUE,FALSE,Additional Life Cover,This shall enhance the protection while charging a low Premium.,ALC,1,LADDI_R1,1005,2,TRUE
+CIC,TRUE,TRUE,TRUE,Critical Illness,This shall protect you on 25 or 39 Critical Ailments.,CIC,3,LCRITL_R1,1005,3,TRUE
+FIB,TRUE,TRUE,FALSE,Family Income Benefit Per Month,This benefit shall pay the monthly Income of the family unit in case of Death or Total Permanent Disability of the Life assured,FIB,4,FIB,1005,4,TRUE
+HCB,TRUE,TRUE,TRUE,Hospital Cash Plan Per Day,This shall provide you a cash benefit in the event of Hospitalization based on Number of days hospitalized,HCB,5,LHOSPT_R1,1005,5,TRUE
+PAC,TRUE,TRUE,FALSE,Additional Accident Cover / TPD / PPD,"This shall provide Accidental Death Cover, Total Permanent, Disability Benefit (Due to Accident or Sickness) and Partial Permanent Disability benefit (Due to Accident).",PAC,8,LACCID_R1,1005,7,TRUE
+FE,TRUE,TRUE,TRUE,Funeral Expense,This will cover Funeral Expenses.,FE,9,FUNEX,1005,8,TRUE
+HRCL,TRUE,TRUE,TRUE,Hospital Reimbursement-Cashless,This shall provide you a cashless benefit in the event of Hospitalization based on Number of days hospitalized,HRCL,13,HRCL,1005,9,TRUE
+BSA,TRUE,TRUE,FALSE,Basic Cover,Basic Cover,BSA,0,0,1006,1,TRUE
+ALC,TRUE,TRUE,FALSE,Additional Life Cover,This shall enhance the protection while charging a low Premium.,ALC,1,LADDI_R1,1006,2,TRUE
+CIC,TRUE,TRUE,TRUE,Critical Illness,This shall protect you on 25 or 39 Critical Ailments.,CIC,3,LCRITL_R1,1006,3,TRUE
+FIB,TRUE,FALSE,FALSE,Family Income Benefit Per Month,This benefit shall pay the monthly Income of the family unit in case of Death or Total Permanent Disability of the Life assured,FIB,4,FIB,1006,4,TRUE
+HCB,TRUE,TRUE,TRUE,Hospital Cash Plan Per Day,This shall provide you a cash benefit in the event of Hospitalization based on Number of days hospitalized,HCB,5,LHOSPT_R1,1006,5,TRUE
+PAC,TRUE,TRUE,FALSE,Additional Accident Cover / TPD / PPD,"This shall provide Accidental Death Cover, Total Permanent, Disability Benefit (Due to Accident or Sickness) and Partial Permanent Disability benefit (Due to Accident).",PAC,8,LACCID_R1,1006,6,TRUE
+FE,TRUE,TRUE,TRUE,Funeral Expense,This will cover Funeral Expenses.,FE,9,FUNEX,1006,7,TRUE
+HRCL,TRUE,TRUE,TRUE,Hospital Reimbursement-Cashless,This shall provide you a cashless benefit in the event of Hospitalization based on Number of days hospitalized,HRCL,13,HRCL,1006,8,TRUE
+BSA,TRUE,TRUE,FALSE,Basic Cover,Basic Cover,BSA,0,0,1007,1,TRUE
+ALC,TRUE,TRUE,FALSE,Additional Life Cover,This shall enhance the protection while charging a low Premium.,ALC,1,LADDI_R1,1007,2,TRUE
+CIC,TRUE,TRUE,TRUE,Critical Illness,This shall protect you on 25 or 39 Critical Ailments.,CIC,3,LCRITL_R1,1007,3,TRUE
+FIB,TRUE,FALSE,FALSE,Family Income Benefit Per Month,This benefit shall pay the monthly Income of the family unit in case of Death or Total Permanent Disability of the Life assured,FIB,4,FIB,1007,4,TRUE
+HCB,TRUE,TRUE,TRUE,Hospital Cash Plan Per Day,This shall provide you a cash benefit in the event of Hospitalization based on Number of days hospitalized,HCB,5,LHOSPT_R1,1007,5,TRUE
+PAC,TRUE,TRUE,FALSE,Additional Accident Cover / TPD / PPD,"This shall provide Accidental Death Cover, Total Permanent, Disability Benefit (Due to Accident or Sickness) and Partial Permanent Disability benefit (Due to Accident).",PAC,8,LACCID_R1,1007,6,TRUE
+FE,TRUE,TRUE,TRUE,Funeral Expense,This will cover Funeral Expenses.,FE,9,FUNEX,1007,7,TRUE
+HRCL,TRUE,TRUE,TRUE,Hospital Reimbursement-Cashless,This shall provide you a cashless benefit in the event of Hospitalization based on Number of days hospitalized,HRCL,13,HRCL,1007,8,TRUE
+BSA,TRUE,FALSE,FALSE,Basic Cover,Basic Cover,BSA,0,0,1009,1,TRUE
+BSA,TRUE,FALSE,FALSE,Basic Cover,Basic Cover,BSA,0,0,1010,1,TRUE
+BSA,TRUE,FALSE,FALSE,Basic Cover,Basic Cover,BSA,0,0,1008,1,TRUE
+CIC,TRUE,FALSE,FALSE,Critical Illness,This shall protect you on 25 or 39 Critical Ailments.,CIC,3,LCRITL_R1,1008,2,TRUE
+FIB,TRUE,FALSE,FALSE,Family Income Benefit Per Month,This benefit shall pay the monthly Income of the family unit in case of Death or Total Permanent Disability of the Life assured,FIB,4,FIB,1008,3,TRUE
+HCB,TRUE,FALSE,FALSE,Hospital Cash Plan Per Day,This shall provide you a cash benefit in the event of Hospitalization based on Number of days hospitalized,HCB,5,LHOSPT_R1,1008,4,TRUE
+PAC,TRUE,FALSE,FALSE,Additional Accident Cover / TPD / PPD,"This shall provide Accidental Death Cover, Total Permanent, Disability Benefit (Due to Accident or Sickness) and Partial Permanent Disability benefit (Due to Accident).",PAC,8,LACCID_R1,1008,5,TRUE
+HRCL,TRUE,FALSE,FALSE,Hospital Reimbursement-Cashless,This shall provide you a cashless benefit in the event of Hospitalization based on Number of days hospitalized,HRCL,13,HRCL,1008,6,TRUE

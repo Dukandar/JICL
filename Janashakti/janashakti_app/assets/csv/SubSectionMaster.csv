@@ -1,0 +1,35 @@
+subSectionID,subSectionName,sectionID
+1000,Suspect,1000
+1001,Prospect Pool,1001
+1002,Prospect Information,2000
+1003,Personal Information,2000
+1004,Household Expenses,2000
+1005,Value of Assets and Liabilities,2000
+1006,Family Income,2000
+1007,Analysis,2000
+1008,Additional Details,2000
+1002,Prospect Information,2002
+1003,Personal Information,2002
+1004,Household Expenses,2002
+1005,Value of Assets and Liabilities,2002
+1006,Family Income,2002
+1007,Analysis,2002
+1008,Additional Details,2002
+1009,Prospect Information,3000
+1010,Personal Information,3000
+1011,Household Expenses,3000
+1012,Value of Assets and Liabilities,3000
+1013,Family Income,3000
+1014,Analysis,3000
+1015,Additional Details,3000
+1016,Product Details,3000
+1017,Proposal Form,4000
+1018,1. Proposer Details,4000
+1019,2. Life to be Assured,4000
+1020,3. Questionnaire,4000
+1021,4. Benefit Coverage Details,4000
+1022,5. Premium Details,4000
+1023,6. Nominee Details,4000
+1024,7. Declaration And Documents,4000
+1025,8. Medical Test Requirements,4000
+1026,Payment,6000
